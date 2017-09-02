@@ -1,12 +1,12 @@
 function basicTeenager(age) {
-  if (age > 12 && age < 20) {
+  if ((basicTeenage(age) > 12) && (basicTeenage(age) < 20)) {
       console.log("You are a teenager!")
   }
 
 }
 
 function teenager(age) {
-  
+
 }
 
 function ageChecker(age) {
